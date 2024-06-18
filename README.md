@@ -6,14 +6,12 @@ Instructions:
 Answer the following questions based on your understanding of GitHub and Visual Studio. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Introduction to GitHub:
+### Introduction to GitHub:
 
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
 Repositories on GitHub:
 
-    # Introduction to GitHub:
-
-    ## What is GitHub?
+    ### What is GitHub?
 
     GitHub is a web-based platform for version control and collaborative software development. It allows developers to host and manage their code projects, track changes, and collaborate with others.
 
